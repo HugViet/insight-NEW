@@ -1,0 +1,27 @@
+dependencies:
+  espressif/esp_diag_data_store:
+    component_hash: null
+    source:
+      path: D:\learn\ESPIDF\Espressif\frameworks\AirSENSE_ESP32-IDF_RTOS-main\AirSENSE_ESP32-IDF_RTOS-main\AirSENSE_ESP32-IDF_RTOS-main\component\esp_diag_data_store
+      type: local
+    version: 1.0.1
+  espressif/esp_diagnostics:
+    component_hash: null
+    source:
+      path: D:\learn\ESPIDF\Espressif\frameworks\AirSENSE_ESP32-IDF_RTOS-main\AirSENSE_ESP32-IDF_RTOS-main\AirSENSE_ESP32-IDF_RTOS-main\component\esp_diagnostics
+      type: local
+    version: 1.0.1
+  espressif/rmaker_common:
+    component_hash: null
+    source:
+      path: D:\learn\ESPIDF\Espressif\frameworks\AirSENSE_ESP32-IDF_RTOS-main\AirSENSE_ESP32-IDF_RTOS-main\AirSENSE_ESP32-IDF_RTOS-main\component\rmaker_common
+      type: local
+    version: 1.4.2
+  idf:
+    component_hash: null
+    source:
+      type: idf
+    version: 4.4.5
+manifest_hash: e6e88bebe1f52b16f675d9ab9e7fd8ea2cd385e93809e7c2c8b9e0e2fed97715
+target: esp32
+version: 1.0.0
